@@ -5,11 +5,10 @@ As there are numerous open-source resources shared by dynamic individuals and in
 ## List
 
 ### LLM by xAI
-[github page](https://github.com/xai-org/grok-1)
+link: [github page](https://github.com/xai-org/grok-1)
 
 ### Ollama: running with large language models
-[github page](https://github.com/ollama/ollama)
-
+link: [github page](https://github.com/ollama/ollama)
 
 ## Update
 
